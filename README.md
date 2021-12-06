@@ -1,2 +1,2 @@
 # Advent-of-Code
-My take on solving the advent of code problems
+My shitty tries on solving the advent of code problems
